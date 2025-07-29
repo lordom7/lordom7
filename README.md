@@ -16,7 +16,7 @@ I believe in clean code, continuous learning, and building tools that actually h
 
 ---
 
-### 🧰 Tech Stack:
+### 💻 Technologies I Use:
 ---
 <p align="center">
   <!-- Lenguajes y frameworks -->
@@ -37,7 +37,7 @@ I believe in clean code, continuous learning, and building tools that actually h
 
 ---
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools & Platforms:
 ---
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" title="Eclipse" width="35" height="35"/>
@@ -49,7 +49,7 @@ I believe in clean code, continuous learning, and building tools that actually h
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect with Me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oscar-villamarin-786450253/" target="_blank">
