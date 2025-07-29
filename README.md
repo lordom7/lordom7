@@ -16,8 +16,8 @@ I believe in clean code, continuous learning, and building tools that actually h
 
 ---
 
-### 🧰 Tech Stack
-
+### 🧰 Tech Stack:
+---
 <p align="center">
   <!-- Lenguajes y frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="35" height="35"/>
