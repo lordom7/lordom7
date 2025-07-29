@@ -38,7 +38,7 @@ I believe in clean code, continuous learning, and building tools that actually h
 ---
 
 ### 🛠️ Tools & Platforms
-
+---
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" title="Eclipse" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="35" height="35"/>
