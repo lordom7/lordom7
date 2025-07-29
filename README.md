@@ -16,8 +16,6 @@ I believe in clean code, continuous learning, and building tools that actually h
 
 ---
 
----
-
 ### 🧰 Tech Stack
 
 <p align="center">
